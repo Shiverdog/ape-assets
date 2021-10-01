@@ -28,6 +28,6 @@
 	},
 	"loader": {
 		"content":"My Suggestion: \n\nAdd Loader, Begin Loader and If Event\n\n-Loader: is gonna be the process and the function but, you can make ticks without placing tha Wait block, you can change the ticks and you can change how he's gonna start like, with a time or not with a event or not and other\n\n-Begin Loader: he start the loader ;-;, but you can change the system, you can change if you to continue the code and do the loader or skip the code and do the loader\n\n-If Event: it's a special event thats only starts when a code is executed like: he just start when the code, for example, begins the if player, and you can change that type of code you want, in what floor, what type and whats inside",
-		"mediaURL":"https://raw.githubusercontent.com/Shiverdog/ape-assets/main/Captura_de_tela_2021-09-14_155155.png"
+		"files":["https://raw.githubusercontent.com/Shiverdog/ape-assets/main/Captura_de_tela_2021-09-14_155155.png"]
 	}
 }
