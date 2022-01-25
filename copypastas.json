@@ -80,5 +80,8 @@
 	},
 	"mapping": {
 		"content":"**Mapping**\n**What does it do**\nMapping would be a quick way to solve a complicated problem. It would take a list of rules and map values based on that.\n\n**Example**\nIf you if you wanted a quick shop system you could map each price to an item and the output would be either the number that was imputed or the mapped value.\n\n**In addition. Isn’t part of the suggestion**\nYou could also have an if variable is mapped, and a repeat until mapped."
-	}
+	},
+	"meme": {
+		"content":"Your meme is saying that \"Add a way to upgrade a plot to the higher tier size, if you own a plot of that size,\" is the same as \"/plot clone\". This phenomenon is not uncommon in the DiamondFire Suggestions Discord server, which means your meme is not ironic and therefore lacks any comedic value. It is simply stating what has happened on the DiamondFire Suggestions Discord server, adding very little to the situation."
+	},
 }
