@@ -99,6 +99,9 @@
 	"tuesday": {
 		"content":"Fat Tuesday is coming up"
 	},
+	"wheelofnames": {
+		"files":["https://raw.githubusercontent.com/Shiverdog/ape-assets/main/wheelofnames.txt"]
+  },
 	"burger": {
 		"content":"**I just ate my cheeseburger meal in my car so I wouldn’t have to share it with my dog**\nI am ashamed but full\n\nEdit: you guys! I’ve had a blast reading all of your replies. I accept that I am a monster in this situation and I have rectified the situation and he got his own cheeseburger today!\n\nTo everyone that called me a bad pet owner. I hope you have the day you deserve :relaxed:"
 	}
