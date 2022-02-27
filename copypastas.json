@@ -101,14 +101,17 @@
 	},
 	"nullpointerexception": {
 		"content": "Kotlin's type system is aimed at eliminating the danger of null references, also known as The Billion Dollar Mistake.\n\nOne of the most common pitfalls in many programming languages, including Java, is that accessing a member of a null reference will result in a null reference exception. In Java this would be the equivalent of a NullPointerException, or an NPE for short.\n\nThe only possible causes of an NPE in Kotlin are:\n\nAn explicit call to throw NullPointerException().\n\nUsage of the !! operator that is described below.\n\nData inconsistency with regard to initialization, such as when:\nAn uninitialized this available in a constructor is passed and used somewhere (a \"leaking this\").\n\nA superclass constructor calls an open member whose implementation in the derived class uses an uninitialized state.\n\nJava interoperation:\nAttempts to access a member of a null reference of a platform type;\n\nNullability issues with generic types being used for Java interoperation. For example, a piece of Java code might add null into a Kotlin MutableList<String>, therefore requiring a MutableList<String?> for working with it.\n\nOther issues caused by external Java code.\n\nIn Kotlin, the type system distinguishes between references that can hold null (nullable references) and those that cannot (non-null references). For example, a regular variable of type String cannot hold null:"
-  },
+  	},
 	"wheelofnames": {
 		"files":["https://raw.githubusercontent.com/Shiverdog/ape-assets/main/wheelofnames.txt"]
-  },
+  	},
 	"burger": {
 		"content":"**I just ate my cheeseburger meal in my car so I wouldn’t have to share it with my dog**\nI am ashamed but full\n\nEdit: you guys! I’ve had a blast reading all of your replies. I accept that I am a monster in this situation and I have rectified the situation and he got his own cheeseburger today!\n\nTo everyone that called me a bad pet owner. I hope you have the day you deserve :relaxed:"
 	},
 	"node5": {
-		"content": "Node 5 is a disorganized mess, its colors represent a bright world while simultaneously appealing to a very young demographic of children. The spawns should be representative of imagination, fantasy, future or other fictacious environments and not a tropic. Take node 2 and its theme of video games. It contains the most details of any spawn while also not mentioning any partisan topics."
+		"content":"Node 5 is a disorganized mess, its colors represent a bright world while simultaneously appealing to a very young demographic of children. The spawns should be representative of imagination, fantasy, future or other fictacious environments and not a tropic. Take node 2 and its theme of video games. It contains the most details of any spawn while also not mentioning any partisan topics."
+	},
+	"announcement": {
+		"content":"Hello ! I want to make an announcement. I have been working on a mining game and have come to the conclusion that there is lots to make. \n\nSo here is where you come. I am recruiting people to help me code, theorize ideas, advertise, balance the game.\n\nYou can apply now for being any of M&D(marketing & design) , C&B(coding & balancing) or a P&P(plan and polish) guy in my dms."
 	}
 }
