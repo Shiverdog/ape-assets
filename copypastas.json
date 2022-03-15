@@ -113,5 +113,8 @@
 	},
 	"announcement": {
 		"content":"Hello ! I want to make an announcement. I have been working on a mining game and have come to the conclusion that there is lots to make. \n\nSo here is where you come. I am recruiting people to help me code, theorize ideas, advertise, balance the game.\n\nYou can apply now for being any of M&D(marketing & design) , C&B(coding & balancing) or a P&P(plan and polish) guy in my dms."
+	},
+	"boss": {
+		"content": "\"Boss by C418\" has many issues, first of all, this isnt boss music or even composed by c418, it was originally named calm4.ogg, and was written by notch himself, it was removed in Alpha v1.1.2, (fun fact, it was only removed from the download files, so people who downloaded minecraft before that could still hear it ingame until the 1.6.1 launcher was introduced) but on Feb 1st 2020 it was reuploaded by notch on his soundcloud page, with the name \"Magnetic Circuit\". The time is also wrong, it says that its 5 minutes and 45 seconds, but i timed it and it was 3 minutes and 2 seconds. another thing is that notch saying \"mojang specifications\" (the name of mojang studios at the time) slowed down is cut out for obvious reasons. (as it wouldnt really work as a game track)"
 	}
 }
