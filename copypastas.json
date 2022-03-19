@@ -113,5 +113,11 @@
 	},
 	"announcement": {
 		"content":"Hello ! I want to make an announcement. I have been working on a mining game and have come to the conclusion that there is lots to make. \n\nSo here is where you come. I am recruiting people to help me code, theorize ideas, advertise, balance the game.\n\nYou can apply now for being any of M&D(marketing & design) , C&B(coding & balancing) or a P&P(plan and polish) guy in my dms."
+	},
+	"boss": {
+		"content": "\"Boss by C418\" has many issues, first of all, this isnt boss music or even composed by c418, it was originally named calm4.ogg, and was written by notch himself, it was removed in Alpha v1.1.2, (fun fact, it was only removed from the download files, so people who downloaded minecraft before that could still hear it ingame until the 1.6.1 launcher was introduced) but on Feb 1st 2020 it was reuploaded by notch on his soundcloud page, with the name \"Magnetic Circuit\". The time is also wrong, it says that its 5 minutes and 45 seconds, but i timed it and it was 3 minutes and 2 seconds. another thing is that notch saying \"mojang specifications\" (the name of mojang studios at the time) slowed down is cut out for obvious reasons. (as it wouldnt really work as a game track)"
+	},
+	"deadlyjohn": {
+		"content": "Quick rant about DEADLY_JOHN: I asked him for dev on his game once, and I said it made my eyes hurt, and that I wanted to help make his game,  and this guy decided that I apparently had no value in my life, and that he \"Knew I was going to greif dev\" (Why would I want to be banned from DiamondFire?) Then later on said I exploited a glitch, (I didn't) after I consulted him on discord with a gif of talking ben, then he called me toxic for doing nothing besides sending some memes, and said I was a low life degenerate, and this guy had the nerve to join my friend's discord and spam everyone, and then blocked everyone and left the server, then continued to be toxic after writing a paragraph about how I am worth nothing, and here's some edited screenshots, I have the unedited screenshots if you want to see them. NOTE: I never got dev so what's with the top left corner? (Thanks for listening to my rant)"
 	}
 }
