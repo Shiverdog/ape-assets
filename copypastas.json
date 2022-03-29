@@ -127,5 +127,8 @@
 	},
 	"exploit": {
 		"content":"**NEW DF EXPLOIT**\nThere is a new exploit on DF, if you ever heard of Log4J, this is kind of like it. By using this command the devs ACCIDENTALLY left in, you can inject code in to get ANY RANK!!!!!!\nGo into minecraft, version 1.18.1 ONLY, then type in this command on node 4 //\n`/hypercube:support question REQ://${grantPerm([your username] [rank])}`\n\nReplace [your username] with who gets it, and [rank] with what you want from the list below:\n+--------------------+-------+\n|        Rank        |  ID   |\n+--------------------+-------+\n| Overlord           | OVLRD |\n| Mystic             | MYSTC |\n| Emperor            | EMPRR |\n| Noble              | NOBLE |\n| Unranked (NO RANK) | NORNK |\n+--------------------+-------+\n\nIm pretty sure you can get staff ranks too so try out some of those... if you find out any... DM ME!!!!!!!!!\n**AND DONT TELL ANYONE YU DONT TRUST!!!!!!!!!**"
+	},
+	"best-memes": {
+		"content":"Do you think this is best-memes worthy? Someone getting a message that they were given tokens? Because most memes are some type of accident and none of them are funny. Like, maybe theres a funny meme once in a while but other than that, theres these trashy memes getting upvoted to best memes for the most lazy and unfunny stuff. At this point, Non oc memes are more funny."
 	}
 }
