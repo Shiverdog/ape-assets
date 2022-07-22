@@ -142,5 +142,9 @@
 	},
 	"pvp": {
 		"content":"Taking the context into account, I'd just like to add:\n\n- 1.9+ combat does not require anything more than adding a few attributes to an item, however, it is criticized often for PvP games since... uh... well, you tell me. Slower, I suppose.\n\n- 1.8 combat feels much faster and for most overall better in PvP games (yet not as good in PvE). HOWEVER, this requires to code it properly, as there are no special effects (sweep, crit, knockback) and had consistent knockback. As in, you can't simply slap melee speed 200 and call it 1.8.\n\nAll I wanted to say\n\nTl;dr, 1.9/1.18 easy and good for pve/slow\n1.8 harder to make well but overall more liked for pvp"
+	},
+	"corrupted": {
+		"content":"You live in a world...\n...That has been corrupted...\n...by the pollution flowing out of factories...\n...all throughout the world.\nAll that is left is hope...\n...hope that its not too late",
+		"files": ["https://raw.githubusercontent.com/Shiverdog/ape-assets/main/corruption.png"]
 	}
 }
